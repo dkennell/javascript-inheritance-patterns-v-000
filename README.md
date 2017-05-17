@@ -1,6 +1,8 @@
 JavaScript Inheritance Patterns
 ---
 
+https://www.youtube.com/watch?v=NDBq6EG3Zdw
+
 ## Objectives
 
 1. Explain how prototypal inheritance works in JavaScript
