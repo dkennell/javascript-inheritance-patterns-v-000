@@ -1,5 +1,6 @@
 JavaScript Inheritance Patterns
 ---
+Is this lab broken?
 
 https://www.youtube.com/watch?v=NDBq6EG3Zdw
 
